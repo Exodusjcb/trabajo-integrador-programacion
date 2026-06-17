@@ -1,4 +1,4 @@
-# Trabajo integrador de programación -UTN
+<img width="704" height="155" alt="image" src="https://github.com/user-attachments/assets/d3119691-b34a-4576-9405-01543cec75ee" /># Trabajo integrador de programación -UTN
 
 Este proyecto es una aplicación de consola interactiva desarrollada en Python para la administración, filtrado, ordenamiento y análisis estadístico de un dataset de países almacenado en formato CSV. El desarrollo cumple estrictamente con los requerimientos técnicos fijados por la cátedra para el Trabajo Práctico Integrador (TPI) de la Tecnicatura Universitaria en Programación (TUP).
 
@@ -68,5 +68,10 @@ El informe teórico-técnico con el marco conceptual, decisiones de diseño de s
 *   **Cátedra de Programación I - UTN.** *Unidad 7: Estructuras de Datos Complejos*. SIED UTN. [https://utn.edu.ar](https://utn.edu.ar)
 *   **GitHub Docs.** *About READMEs and managing repositories*. [https://github.com](https://github.com)
 *   **Píldoras Informáticas.** *Manejo de Archivos y Estructuras de Datos Tabulares (CSV) en Python*. [https://youtube.com](https://youtube.com)
+*   **Enlace a video explicativo en Youtube** (https://www.youtube.com/watch?v=ylbFB448VNw)
+*   **Enlace a repositorio en Github** (https://github.com/Exodusjcb/trabajo-integrador-programacion)
+
+
+
 *   **Python Software Foundation.** *Built-in Types (Sets, Lists, Dictionaries)*. [https://python.org](https://python.org)
 *   **Wikipedia.** *Anexo:Países y territorios dependientes por población*. [https://wikipedia.org](https://wikipedia.org)
