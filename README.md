@@ -1,8 +1,8 @@
 # Trabajo integrador de programación -UTN
 # Gestión de Datos de Países en Python: filtros, ordenamientos y estadísticas.
-Materia: Programación.
-Alumno: Julián García.
-Fecha : 17/06/2026
+*Materia: Programación.
+*Alumno: Julián García.
+*Fecha : 17/06/2026
 
 Este proyecto es una aplicación de consola interactiva desarrollada en Python para la administración, filtrado, ordenamiento y análisis estadístico de un dataset de países almacenado en formato CSV. El desarrollo cumple estrictamente con los requerimientos técnicos fijados por la cátedra para el Trabajo Práctico Integrador (TPI) de la Tecnicatura Universitaria en Programación (TUP).
 
